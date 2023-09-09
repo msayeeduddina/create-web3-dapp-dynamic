@@ -1,0 +1,315 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[12].use[3]!./app/globals.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,500;1,400&display=swap');
+
+html,
+body {
+	font-family: 'Rubik';
+	font-weight: normal;
+}
+h1{
+	margin-bottom: 1rem;
+}
+h2{
+	margin-bottom: .5rem;
+	font-weight: normal;
+
+}
+
+p{
+	line-height: 1.5rem;
+	font-weight: lighter;
+
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+	}
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./components/instructionsComponent/instructionsComponent.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************/
+.instructionsComponent_container__WcXFx{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+    height: 550px;
+	align-items: center;
+    justify-content: space-between;
+    
+}
+
+.instructionsComponent_header_container__DqF3L{
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.instructionsComponent_header_container__DqF3L .instructionsComponent_header__b30XP{
+    line-height: 3em;
+    text-align: center;
+}
+.instructionsComponent_header_container__DqF3L h1{
+	font-size: 64px;
+
+}
+.instructionsComponent_header_container__DqF3L h3{
+    color: rgba(1, 1, 1, 0.6);
+}
+
+.instructionsComponent_header_container__DqF3L h1 span{
+	background: linear-gradient(140deg, rgba(54,190,255,1) 0%, rgba(115,63,241,1) 100%);
+	-webkit-background-clip: text;
+	        background-clip: text;
+	color: transparent;
+}
+
+.instructionsComponent_get_started__QU66l{
+	font-size: 18px;
+
+}
+
+.instructionsComponent_get_started__QU66l span{
+	color: #D73719;
+	width: 197px;
+height: 36px;
+
+
+background: rgba(1, 1, 1, 0.08);
+border-radius: 8px;
+	padding: .5rem 1rem .5rem .5rem;
+	margin-left: .3rem;
+}
+
+
+
+
+.instructionsComponent_buttons_container__3s4_5{
+	display: flex;
+	width: 80%;
+    flex-wrap: wrap;
+    justify-content: center;
+	gap: 1.5rem;
+    color: white;
+}
+
+.instructionsComponent_button__hI_NF{
+	display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+
+padding: 24px 32px;
+gap: 12px;
+
+width: 392px;
+height: 80px;
+
+background: rgba(0, 0, 0, 0.9);
+/* Grayscale/Metal */
+box-shadow: 2px 2px 3px rgb(142, 142, 142);
+border-radius: 12px;
+cursor: pointer;
+transition: all .5s;
+}
+
+.instructionsComponent_button__hI_NF:hover{
+    background: rgba(0, 0, 0, 0.88);
+    box-shadow: 6px 6px 6px rgb(234, 234, 234);
+    transform: translateY(-3px);
+
+}
+
+.instructionsComponent_button__hI_NF p {
+font-style: normal;
+font-size: 18px;
+line-height: 28px;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./components/nftGalleryComponent/NftGallery.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************/
+.NftGallery_nft_gallery_page_container__6XTLA {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 3rem;
+    align-items: center;
+  }
+  
+  
+  .NftGallery_nft_gallery__SJ1kc{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1224px;
+    align-items: center;
+    padding: 0 1.5rem;
+    margin-bottom: 2rem
+  }
+  
+  
+  .NftGallery_nfts_display__at9_n {
+    display: grid;
+    flex-wrap: wrap;
+    grid-gap: 0.75rem;
+    gap: 0.75rem;
+    justify-content: center;
+    grid-template-columns: repeat(4, 1fr);
+    border-radius: 8px;
+    padding-top: 1rem;
+  }
+  
+  .NftGallery_header__S_vZD {
+    font-size: 1.5rem;
+    font-weight: bolder;
+  }
+  
+  .NftGallery_header_info__OYfCe {
+    color: #4e4e4e;
+    font-size: 1em;
+    margin-bottom: 1em;
+  }
+  
+  .NftGallery_card_container__xJk4P {
+    background-color: #fff;
+    width: 100%;
+    width: 236px;
+    max-height: 384px;
+    border-radius: 12px;
+    padding: 8px;
+    border: 1px solid #CFD9F0;
+  
+  
+  }
+  
+  .NftGallery_image_container__S3f59 {
+   height: 204px;
+    width: 100%;
+    border-radius: 6px 6px 0 0;
+  }
+  
+  .NftGallery_image_container__S3f59 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  
+  .NftGallery_info_container__XSztc{
+    display: flex;
+    flex-direction: column;
+    row-gap: .1rem;
+    width: 100%;
+    flex-wrap: wrap;
+    
+  }
+  .NftGallery_symbol_contract_container__n4fMZ{
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-grow: 1;
+  }
+  .NftGallery_symbol_container__HIdXb{
+      display: flex;
+      align-items: center;
+  }
+  .NftGallery_contract_container__aByW5{
+    display: flex;
+    column-gap: .3rem;
+    font-size: 12px;
+    cursor: pointer;
+    align-items: center;
+  
+  }
+  
+  .NftGallery_title_container__D3rjo {
+    display: flex;
+    align-items: center;
+    height: 3rem;
+  }
+  
+  .NftGallery_title_container__D3rjo h3 {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .NftGallery_symbol_container__HIdXb {
+    display: flex;
+    column-gap: .3rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+  }
+  
+  
+  .NftGallery_description_container__Hpiep {
+    margin-top: 0.5em;
+    display: -webkit-box;
+    overflow-y: hidden;
+    width: 90%;
+    font-size: 14px;
+    color: #4e4e4e;
+    line-height: .2em;
+    height: 3rem;
+  }
+  
+  @media screen and (max-width: 992px) {
+    .NftGallery_nfts_display__at9_n {
+      
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .NftGallery_nfts_display__at9_n {
+      
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media screen and (max-width: 560px) {
+    .NftGallery_nfts_display__at9_n {
+      
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+  
+  .NftGallery_button_container__5S33F{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .NftGallery_button_black__wWfah{
+    text-align: center;
+    padding: .6rem 1rem;
+  
+    border-radius: 3px;
+    background-color: black;
+    cursor: pointer;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+  }
+
+  
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./app/page.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
+
+
+.page_main__WunS6 {
+	padding: 2rem 0;
+}

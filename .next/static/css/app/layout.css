@@ -1,0 +1,35 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./components/instructionsComponent/navigation/navbar/navbar.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+
+.navbar_navbar__aTce3 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	padding: 2rem 4rem 0.8rem 4rem;
+	gap: 2rem;
+	margin-bottom: 4rem;
+}
+
+
+.navbar_alchemy_logo__GjB9b{
+	width: 6rem;
+	cursor: pointer;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[7].use[3]!./components/instructionsComponent/navigation/footer/footer.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.footer_footer__FAQ4f{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap:1rem;
+}
+.footer_icons_container__Hb15e{
+	display: flex;
+	gap: 2rem;
+	margin-bottom: .5rem;
+}

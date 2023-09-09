@@ -1,0 +1,24 @@
+{
+  "cssImports": {
+    "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\page.tsx": [
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\instructionsComponent\\instructionsComponent.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\nftGalleryComponent\\NftGallery.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\page.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\globals.css"
+    ],
+    "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\layout.tsx": [
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\instructionsComponent\\navigation\\navbar\\navbar.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\instructionsComponent\\navigation\\footer\\footer.module.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\page": [
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\instructionsComponent\\navigation\\navbar\\navbar.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\instructionsComponent\\navigation\\footer\\footer.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\instructionsComponent\\instructionsComponent.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\components\\nftGalleryComponent\\NftGallery.module.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\globals.css",
+      "C:\\Users\\user\\Desktop\\CYPERTS\\FILES\\GITHUB_CODES\\GIT-Repo\\create-web3-dapp-dynamic-main\\app\\page.module.css"
+    ]
+  }
+}

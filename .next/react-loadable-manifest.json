@@ -1,0 +1,30 @@
+{
+  "..\\node_modules\\@dynamic-labs\\sdk-react-core\\src\\lib\\widgets\\DynamicBridgeWidget\\components\\DynamicBridgeWidgetViews\\DynamicBridgeWidgetViews.js -> ../../views/EditProfileView/EditProfileView.js": {
+    "id": "..\\node_modules\\@dynamic-labs\\sdk-react-core\\src\\lib\\widgets\\DynamicBridgeWidget\\components\\DynamicBridgeWidgetViews\\DynamicBridgeWidgetViews.js -> ../../views/EditProfileView/EditProfileView.js",
+    "files": [
+      "static/chunks/_app-client_node_modules_dynamic-labs_sdk-react-core_src_lib_widgets_DynamicBridgeWidget_view-62e497.js"
+    ]
+  },
+  "..\\node_modules\\@dynamic-labs\\sdk-react-core\\src\\lib\\widgets\\DynamicBridgeWidget\\components\\DynamicBridgeWidgetViews\\DynamicBridgeWidgetViews.js -> ../../views/ProfileView/ProfileView.js": {
+    "id": "..\\node_modules\\@dynamic-labs\\sdk-react-core\\src\\lib\\widgets\\DynamicBridgeWidget\\components\\DynamicBridgeWidgetViews\\DynamicBridgeWidgetViews.js -> ../../views/ProfileView/ProfileView.js",
+    "files": [
+      "static/chunks/_app-client_node_modules_dynamic-labs_sdk-react-core_src_lib_widgets_DynamicBridgeWidget_view-06a115.js"
+    ]
+  },
+  "..\\node_modules\\@dynamic-labs\\sdk-react-core\\src\\lib\\widgets\\DynamicBridgeWidget\\components\\DynamicBridgeWidgetViews\\DynamicBridgeWidgetViews.js -> ../../views/WalletsView/WalletsView.js": {
+    "id": "..\\node_modules\\@dynamic-labs\\sdk-react-core\\src\\lib\\widgets\\DynamicBridgeWidget\\components\\DynamicBridgeWidgetViews\\DynamicBridgeWidgetViews.js -> ../../views/WalletsView/WalletsView.js",
+    "files": [
+      "static/chunks/_app-client_node_modules_dynamic-labs_sdk-react-core_src_lib_widgets_DynamicBridgeWidget_view-f21c8b.js"
+    ]
+  },
+  "..\\node_modules\\viem\\dist\\esm\\actions\\public\\call.js -> ../../utils/ccip.js": {
+    "id": "..\\node_modules\\viem\\dist\\esm\\actions\\public\\call.js -> ../../utils/ccip.js",
+    "files": [
+      "static/chunks/_app-client_node_modules_viem_dist_esm_utils_ccip_js.js"
+    ]
+  },
+  "..\\node_modules\\viem\\dist\\esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1": {
+    "id": "..\\node_modules\\viem\\dist\\esm\\utils\\signature\\recoverPublicKey.js -> @noble/curves/secp256k1",
+    "files": []
+  }
+}
